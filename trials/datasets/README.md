@@ -1,6 +1,6 @@
 # Notes on datasets
 
-You can use the following real world dataset to develop your platform:
+You can use the following real world dataset to develop your platform but if you do then you must use the provided search query:
 
 **ClinicalTrials.gov**
 
